@@ -1,0 +1,6 @@
+{
+    "appSecret": "7bd1f60585eb501400bbbb17607bd7c7",
+    "pageAccessToken": "EAAH51TDBqzIBALW2ntEmO5CIQYrrrNAZCHTtcZC3ZCJ1FZAVihzZCsdmL9X60o5xMd1hT3CQcziMiiaTzML6aUjSGhfHYKSBcLLcewJWgEoCMFO9eKlaL6W97OOu0biRiLCF5AnAvOtxFDTCIaTSjKTqAcBbz1nyRs9qVlvKTbQZDZD",
+    "validationToken": "test_token",
+    "serverURL": "https://fbmessenger-chatbot.herokuapp.com/"
+}
